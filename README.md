@@ -5,6 +5,8 @@ Codveda Internship Project – Level 2 Task 1
 
 ---
 
+https://github.com/Prajapatikapil41/employee-management-system/blob/main/Codveda_L2T1.mp4 
+
 ## 🔧 Features / User Stories
 
 - I can add a new employee with details: Name, Emp ID, Email, Phone, Status, Address, Department, Job, Salary.  
@@ -16,8 +18,14 @@ Codveda Internship Project – Level 2 Task 1
 ---
 
 ## 🖼️ Screenshots
-   ![Form Screenshot](./images/form.png)
-
+   ![Form Screenshot](https://github.com/Prajapatikapil41/employee-management-system/blob/main/Images/Screenshot%20(153).png)
+   ![Form Screenshot](https://github.com/Prajapatikapil41/employee-management-system/blob/main/Images/Screenshot%20(154).png)
+   ![Form Screenshot](https://github.com/Prajapatikapil41/employee-management-system/blob/main/Images/Screenshot%20(155).png)
+   ![Form Screenshot](https://github.com/Prajapatikapil41/employee-management-system/blob/main/Images/Screenshot%20(156).png)
+   ![Form Screenshot](https://github.com/Prajapatikapil41/employee-management-system/blob/main/Images/Screenshot%20(157).png)
+   ![Form Screenshot](https://github.com/Prajapatikapil41/employee-management-system/blob/main/Images/Screenshot%20(158).png)
+   ![Form Screenshot](https://github.com/Prajapatikapil41/employee-management-system/blob/main/Images/Screenshot%20(159).png)
+   ![Form Screenshot](https://github.com/Prajapatikapil41/employee-management-system/blob/main/Images/Screenshot%20(160).png)
 
 
 ---
