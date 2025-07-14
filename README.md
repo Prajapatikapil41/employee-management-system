@@ -5,8 +5,6 @@ Codveda Internship Project – Level 2 Task 1
 
 ---
 
-https://github.com/Prajapatikapil41/employee-management-system/blob/main/Codveda_L2T1.mp4 
-
 ## 🔧 Features / User Stories
 
 - I can add a new employee with details: Name, Emp ID, Email, Phone, Status, Address, Department, Job, Salary.  
